@@ -1,12 +1,4 @@
 Name,URL,Duration,UpdateInterval,StartOn,EndBy,Cache
-Exhibit01,https://github.com/Anson-Lit/Exhibit-Test/raw/main/YHScourtyard.jpg,0:00:10,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
-Exhibit01,https://github.com/Anson-Lit/Exhibit-Test/raw/main/YHSeastelevationjpg.jpg,0:00:10,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
-Exhibit01,https://github.com/Anson-Lit/Exhibit-Test/raw/main/YHSentryextrasky.png,0:00:10,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
-Exhibit01,https://github.com/Anson-Lit/Exhibit-Test/raw/main/2ndfloor.jpg,0:00:10,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
-Exhibit01,https://github.com/Anson-Lit/Exhibit-Test/raw/main/3rdfloor.jpg,0:00:10,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
-Exhibit01,https://github.com/Anson-Lit/Exhibit-Test/raw/main/LittleSchool.JPG,0:00:10,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
-Exhibit01,https://github.com/Anson-Lit/Exhibit-Test/raw/main/NotforOurselvesAlone.jpg,0:00:10,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
-Exhibit01,https://github.com/Anson-Lit/Exhibit-Test/raw/main/SSentrysky.jpg,0:00:10,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
-Exhibit01,https://github.com/Anson-Lit/Exhibit-Test/raw/main/YHSField.jpg,0:00:10,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
-Exhibit01,https://github.com/Anson-Lit/Exhibit-Test/raw/main/ssfieldentry.jpg,0:00:10,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
-Exhibit01,https://github.com/Anson-Lit/Exhibit-Test/raw/main/sslobby.jpg,0:00:10,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
+Exhibit01,https://github.com/Anson-Lit/Exhibit-Test/Current_photos/raw/main/YHScourtyard.jpg,0:00:10,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
+Exhibit01,https://github.com/Anson-Lit/Exhibit-Test/Current_photos/raw/main/YHSeastelevationjpg.jpg,0:00:10,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
+Exhibit01,https://github.com/Anson-Lit/Exhibit-Test/Current_photos/raw/main/YHSentryextrasky.png,0:00:10,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
